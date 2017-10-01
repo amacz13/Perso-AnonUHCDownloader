@@ -1,0 +1,17 @@
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\bin\Debug\AnonUHC.exe.config
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\bin\Debug\AnonUHC.exe
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\bin\Debug\AnonUHC.pdb
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\bin\Debug\AnonUHC.xml
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\bin\Debug\MaterialSkin.dll
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.vbprojResolveAssemblyReference.cache
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Form1.resources
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Resources.resources
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.vbproj.GenerateResource.Cache
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.exe
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.xml
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.pdb
+c:\users\axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Licence.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Configuration.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Dépendances.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Téléchargement.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\AnonUHC\AnonUHC\obj\Debug\AnonUHC.Dossier_de_Sortie.resources
